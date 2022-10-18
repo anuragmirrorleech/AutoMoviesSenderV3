@@ -82,7 +82,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/sources_cods/55"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "https://www.google.com/"
-CAPTION_BUTTON_URL = "https://www.google.com/"
+CAPTION_BUTTON = "Suscribe"
+CAPTION_BUTTON_URL = "https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg"
 
    # Auto Delete For Bot Sending Files #
