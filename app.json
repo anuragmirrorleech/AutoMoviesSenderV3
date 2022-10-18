@@ -1,5 +1,5 @@
 {
-    "name": "Tamilgram/AutoMoviesSenderV3",
+    "name": "AutoMoviesSenderV3",
     "description": "Clone Of Evamaria & More Features Added",
     "stack": "container",
     "logo": "https://te.legra.ph/file/4d4ca747e699535a055f1.jpg",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Tamilgram/AutoMoviesSenderV3",
-    "repository": "https://github.com/Tamilgram/AutoMoviesSenderV3",
+    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
